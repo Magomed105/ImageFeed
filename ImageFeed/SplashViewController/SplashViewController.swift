@@ -101,7 +101,6 @@ final class SplashViewController: UIViewController {
     }
 }
 
-
 // MARK: - AuthViewControllerDelegate
 extension SplashViewController: AuthViewControllerDelegate {
     func authViewController(_ vc: AuthViewController, didAuthenticateWithToken token: String) {

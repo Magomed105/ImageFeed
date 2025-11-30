@@ -1,6 +1,5 @@
 import Foundation
 
-
 final class OAuth2Service {
     // MARK: - Singleton
     static let shared = OAuth2Service()

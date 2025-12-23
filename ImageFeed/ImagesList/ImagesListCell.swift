@@ -2,7 +2,7 @@ import UIKit
 
 // MARK: - Constants
 private enum ImagesListCellConstants {
-    static let cornerRadius: CGFloat = 16 
+    static let cornerRadius: CGFloat = 16
     static let imageInsets = UIEdgeInsets(top: 4, left: 16, bottom: 4, right: 16)
     static let likeButtonSize: CGSize = CGSize(width: 42, height: 42)
     static let dateLabelInsets = UIEdgeInsets(top: 0, left: 8, bottom: 8, right: 0)

@@ -17,9 +17,11 @@ final class ProfileImageService {
         }
     }
     
+    
     private var currentTask: URLSessionTask?
     private let networkClient = NetworkClient()
     private let tokenStorage = OAuth2TokenStorage.shared
+    
     
     // MARK: - Public Methods
     func fetchProfileImageURL(

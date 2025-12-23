@@ -6,6 +6,7 @@ struct Profile {
     let loginName: String
     let bio: String?
     
+    
     init(from result: ProfileResult) {
         self.username = result.username
         self.loginName = "@" + result.username

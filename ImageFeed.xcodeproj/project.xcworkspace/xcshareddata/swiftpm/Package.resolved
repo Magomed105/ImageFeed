@@ -1,0 +1,24 @@
+{
+  "originHash" : "6577d1efd10193e37882c2375d72d60147984d595634f9f934df8bdab2235299",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "d30a5fad881137e2267f96a8e3fc35c58999bb94",
+        "version" : "8.6.2"
+      }
+    },
+    {
+      "identity" : "progresshud",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/relatedcode/ProgressHUD",
+      "state" : {
+        "revision" : "4aa638a88450d6d48a6620070722e875e7a179ef",
+        "version" : "14.1.4"
+      }
+    }
+  ],
+  "version" : 3
+}
